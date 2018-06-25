@@ -1,1 +1,0 @@
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Baarles Ei","payment:coins":"ja","payment:notes":"ja","Verkauft":"eggs"},"name":"Baarles Ei","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4688329359","geometry":{"type":"Point","coordinates":[4.9513085,51.4492494]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Beschreibung:de":"pasteurisierte Vollmilch","payment:coins":"ja","payment:notes":"no","Verkauft":"milk"},"name":"Milchautomat","address":{"city":"Unbekannt"},"opening_hours":"07:00-20:00","property":"vending_machine","id":"node/5683144999","geometry":{"type":"Point","coordinates":[14.4793562,51.1930871]}}

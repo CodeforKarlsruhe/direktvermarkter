@@ -101,7 +101,7 @@ function address(data) {
 
     if (Object.keys(address) == 0)
         address["city"] = "Unbekannt"
-    
+
   return address;
 }
 
@@ -197,21 +197,21 @@ console.log('bbox: ' + bbox)
 let query = ` 
   [out:json][timeout:742];
   // gather results
+  area["name"="Deutschland"]->.de;
   (
-  // query part for: “vending=milk,food,eggs”
-  node["vending"~"milk|eggs|food"](${bbox});
-  way["vending"~"milk|eggs|food"](${bbox});
-  relation["vending"~"milk|eggs|food"](${bbox});
-  // query part for: “amenity=marketplace”
-  node["amenity"="marketplace"](${bbox});
-  way["amenity"="marketplace"](${bbox});
-  relation["amenity"="marketplace"](${bbox});
-  // query part for: “shop=farm”
-  node["shop"="farm"](${bbox});
-  way["shop"="farm"](${bbox});
-  relation["shop"="farm"](${bbox});
+    node["vending"~"milk|eggs|food"](area.de);
+    way["vending"~"milk|eggs|food"](area.de);
+    relation["vending"~"milk|eggs|food"](area.de);
+    // query part for: “amenity=marketplace”
+    node["amenity"="marketplace"](area.de);
+    way["amenity"="marketplace"](area.de);
+    relation["amenity"="marketplace"](area.de);
+    // query part for: “shop=farm”
+    node["shop"="farm"](area.de);
+    way["shop"="farm"](area.de);
+    relation["shop"="farm"](area.de);
+
   );
-  // print results
   out center;
 `;
 console.log(query)

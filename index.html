@@ -122,9 +122,6 @@
 <script src="js/L.Control.Locate.min.js"></script>
 <script src="js/opening_hours+deps.min.js"></script>
 <script src="js/jsrender.min.js"></script>
-
-=======
-<script src="js/popupcontent.js"></script>
 <script src="js/direktvermarkter.js"></script>
 <script src="js/popupcontent.js"></script>
 
@@ -164,9 +161,9 @@
       <div id='times'>
           <b>Öffnungszeiten:</b>
           <p>{{:opening_hours}}<p>
-          {{if open === "open"}}
+          {{if opening_state === "open"}}
             <p><strong><span id='offen'>Gerade offen</span></strong><p>
-          {{else open === "closed"}}
+          {{else opening_state === "closed"}}
             <p><strong><span id='geschlossen'>Gerade geschlossen</span></strong><p>
           {{/if}}
       </div>

@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Hof Im Winkel","payment:cash":"ja","payment:coins":"ja","payment:notes":"ja","Verkauft":"food"},"address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"vending_machine","id":"node/5693438348","geometry":{"type":"Point","coordinates":[6.9517868,51.570021]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Hof Närmann","payment:cash":"ja","payment:coins":"ja","payment:notes":"ja","Verkauft":"food"},"address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"vending_machine","id":"node/5693444354","geometry":{"type":"Point","coordinates":[7.3938378,51.7080685]}}

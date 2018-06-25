@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","highway":"pedestrian"},"name":"Fischmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/38621427","geometry":{"type":"Point","coordinates":[11.0521153,51.8952469]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","highway":"pedestrian","surface":"sett"},"name":"Fischmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/38621427","geometry":{"type":"Point","coordinates":[11.0521153,51.8952469]}}

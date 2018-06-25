@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Hof Overgünne","payment:cash":"ja","payment:coins":"ja","payment:notes":"ja","Verkauft":"food, bread"},"address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"vending_machine","id":"node/5693391263","geometry":{"type":"Point","coordinates":[6.9915808,51.5823452]}}

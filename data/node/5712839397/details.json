@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Milch":"raw_milk","Betreiber":"Landwirtschafsbetrieb Döhler","payment:coins":"ja","Verkauft":"milk"},"name":"Milchhäusel","address":{"city":"Unbekannt"},"opening_hours":"Mo-Su 07:00-19:00","property":"vending_machine","id":"node/5712839397","geometry":{"type":"Point","coordinates":[12.4572919,50.5513772]}}

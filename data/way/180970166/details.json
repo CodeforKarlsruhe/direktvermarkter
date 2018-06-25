@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"landuse":"farmyard","Verkauft":"food","Verkauft_1":"milk"},"name":"Benishof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"unkown","id":"way/180970166","geometry":{"type":"Point","coordinates":[8.4654776,48.1720201]}}
+{"type":"Feature","properties":{"landuse":"farmyard","shop":"farm","Verkauft":"food","Verkauft_1":"milk"},"name":"Benishof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/180970166","geometry":{"type":"Point","coordinates":[8.4654776,48.1720201]}}

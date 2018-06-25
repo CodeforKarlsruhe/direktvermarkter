@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt","address":{"city":"Unbekannt"},"opening_hours":"We 12:00-18:30","property":"marketplace","id":"way/400327387","geometry":{"type":"Point","coordinates":[11.4651819,48.0929643]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt","address":{"city":"Neuried"},"opening_hours":"We 12:00-18:00; PH off","property":"marketplace","id":"way/400327387","geometry":{"type":"Point","coordinates":[11.4651819,48.0929643]}}
