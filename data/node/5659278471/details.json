@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Gießener Wochenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/5659278471","geometry":{"type":"Point","coordinates":[8.6766258,50.5872818]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Gießener Wochenmarkt","address":{"street":"Brandplatz"},"opening_hours":"We, Sa 07:00 - 14:00","property":"marketplace","id":"node/5659278471","geometry":{"type":"Point","coordinates":[8.6766258,50.5872818]}}

@@ -17,7 +17,7 @@ function popupcontent(feature, layer) {
         dataType: 'json',
         async: false,
         success: function(data) {
-            var oh = new opening_hours(feature.opening_hours, data);
+            var oh = new opening_hours(feature.opening_hours, data[0]);
             console.log("oh = " + oh.getState());
 
             try {
