@@ -12,7 +12,7 @@ body {
     background: #4ca7ce;
 }
 
-.header {
+h1 {
     font-size: 20px;
     color: #f2f2f2;
     background: #4ca7ce;
@@ -21,7 +21,10 @@ body {
     margin:0px;
     vertical-align: middle;
     text-align: center;
+
+    
 }
+
 
 .leaflet-popup-content {
     margin: 0px 0px;
@@ -78,6 +81,7 @@ body {
 
     table {
         font-size: 10px;
+        min-width: 250px;
         width: 100%;
     }
     th {
@@ -106,6 +110,7 @@ body {
     #adress {
         float: left;
         margin-bottom: 6px;
+        max-width: 110px;
 
     }
     #links {
@@ -138,6 +143,36 @@ body {
 
     .leaflet-popup-content p {
         margin: 0px;
+    }
+
+    a.button {
+        font-weight: bold;
+        padding: 8px;
+        margin: 8px;
+        font-size: 14px;
+        color: #f2f2f2!important;
+        background: #4ca7ce;
+        text-decoration: none;
+        line-height: 34px;
+    }
+    
+    a.button:hover {
+        box-shadow: 0 8px 8px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+    a.popupbutton {
+        font-weight: bold;
+        padding: 4px;
+        margin: 4px;
+        font-size: 10px;
+        color: #f2f2f2!important;
+        background: #4ca7ce;
+        text-decoration: none;
+        line-height: 30px;
+    }
+    
+    a.popupbutton:hover {
+        box-shadow: 0 8px 8px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     }
 
     .leaflet-marker-icon.mycluster.leaflet-zoom-animated.leaflet-interactive {
